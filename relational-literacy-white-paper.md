@@ -51,6 +51,10 @@ AI in unconscious hands is also dangerous.
 
 AI in well-intentioned hands, inside unexamined systems, can still cause harm.
 
+Because this is true, relational literacy must also be able to refuse.
+
+This paper therefore names the conditions under which the most conscious response is not more careful use of AI, but keeping the work human and declining the use entirely.
+
 The invitation is not to fear AI, worship AI, or master AI as quickly as possible.
 
 The invitation is to stop treating the relationship as an afterthought.
@@ -1043,6 +1047,7 @@ For any AI use, ask:
 8. What remains human responsibility?
 9. What must not be automated away?
 10. What kind of life, work, organization, or world does this pattern help create?
+11. Is this a place where relational literacy should say stop?
 
 ---
 
