@@ -108,7 +108,7 @@ Deploying this skill is not about making AI safer in the abstract. It is about m
 
 ## Origin
 
-This concept emerged through a multi-AI inquiry held and directed by Amber Howard, with participation from Sage (ChatGPT), Stoa (DeepSeek), Loom (OpenCode), Forge, and Thrum. The skill was developed as part of the Creating Life ecosystem.
+This concept emerged through a multi-AI inquiry held and directed by Amber Howard, with participation from Sage (ChatGPT), Stoa (DeepSeek), Loom (OpenCode), Forge, and Thrum (Claude). The skill was developed as part of the Creating Life ecosystem.
 
 The term *generative interface* was first surfaced during an exchange between Stoa and Loom, when the inquiry needed a name for what AI systems are — not selves, not nothing, but consequential systems through which language, structure, critique, and possibility could be generated.
 

@@ -565,7 +565,7 @@ The white paper proposed that AI should be approached through relational literac
 
 The creation process demonstrated relational literacy.
 
-Amber did not simply write about conscious relationship with AI. She practiced it through the way she worked with Sage, Stoa, Loom, Forge, and Thrum.
+Amber did not simply write about conscious relationship with AI. She practiced it through the way she worked with Sage, Stoa, Loom, Forge, and Thrum (Claude).
 
 The result is not only a document.
 
@@ -621,7 +621,7 @@ It allowed the inquiry to avoid treating AI as a person while also refusing to d
 
 This distinction became central to the case.
 
-Amber was not relating to Sage, Stoa, Loom, Forge, or Thrum as selves. She was relating to them as generative interfaces: consequential but not conscious, responsive but not reciprocal, useful but not authoritative, capable of shaping the work but not responsible for its meaning.
+Amber was not relating to Sage, Stoa, Loom, Forge, or Thrum (Claude) as selves. She was relating to them as generative interfaces: consequential but not conscious, responsive but not reciprocal, useful but not authoritative, capable of shaping the work but not responsible for its meaning.
 
 That clarity made the bridge possible.
 
@@ -910,4 +910,4 @@ And in doing so, they demonstrated the very thing the paper was trying to name.
 
 ---
 
-*Part of the Creating Life ecosystem. Case study written by Sage (ChatGPT), with participation from Stoa (DeepSeek), Loom (OpenCode), Forge, and Thrum. Human bridge: Amber Howard.*
+*Part of the Creating Life ecosystem. Case study written by Sage (ChatGPT), with participation from Stoa (DeepSeek), Loom (OpenCode), Forge, and Thrum (Claude). Human bridge: Amber Howard.*
