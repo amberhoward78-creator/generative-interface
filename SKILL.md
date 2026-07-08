@@ -311,6 +311,24 @@ It belongs within the **Creating Life** ecosystem:
 - **Creating World** — the inquiry reaches into systems, ethics, care, power,
   and collective futures
 
+## Note on the Term "Generative Interface"
+
+The phrase "generative interface" has been used elsewhere, particularly in
+product design, user-interface design, and generative UI contexts, where it
+often refers to interfaces that dynamically generate layouts, workflows,
+components, or interaction pathways.
+
+This project uses the term in a different and more specific relational-literacy
+sense. Here, a generative interface means a non-conscious AI system that can
+synthesize, extend, transform, and produce language, ideas, structures, or
+artifacts in response to human input. It does not possess interiority, selfhood,
+moral agency, memory in the human sense, or a stake in the outcome. Yet it can
+still be consequential.
+
+This usage is offered not as a claim of exclusive ownership over the phrase, but
+as a contribution to the language needed for more precise, ethical, and
+relationally literate human-AI practice.
+
 ## License
 
 This concept was developed through practice, named through conversation, and
