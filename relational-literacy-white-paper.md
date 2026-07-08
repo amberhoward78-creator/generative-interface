@@ -725,7 +725,57 @@ A mature AI conversation must therefore ask not only what individuals should do,
 
 ---
 
-## 17. Applying the Framework Across Contexts
+## 17. The Refusal Case: When Relational Literacy Says Stop
+
+Every framework must be able to say no.
+
+If relational literacy can only ever counsel more careful use, it is not a discipline. It is a permission slip.
+
+So this section names the harder edge of the practice: the point at which the honest answer to "What relationship are we creating here?" is that this relationship should not be created at all.
+
+Consider a concrete example.
+
+A hospice care organization is under financial and administrative strain. Staff are stretched. Families often wait days for a follow-up after a death. A well-intentioned director proposes using AI to generate personalized condolence messages to bereaved families — drawing on the patient's record to reference the person by name, recall details of their final weeks, and express the organization's sympathy within hours of a death.
+
+The efficiency case is real. Families would hear something sooner. Staff would be relieved of a painful and time-consuming task. The messages would be warm, specific, and consistent.
+
+A purely technical review might approve it. The tool works. A purely procedural review might approve it. No policy is violated and no data leaves the system.
+
+Relational literacy refuses it.
+
+Not because the technology fails, and not because the intention is bad, but because the entire meaning of the act is the human presence it would replace.
+
+A condolence is not information. It is a person choosing to turn toward another person's grief and stay there for a moment. Its value is inseparable from the fact that someone chose to send it. Automating the gesture does not scale the care. It removes the care and keeps the appearance of it.
+
+And the harm is not neutralized by good intentions. A family that later learns the tender message about their mother's final days was generated automatically does not experience efficiency. They experience the discovery that no one was actually there.
+
+This is the refusal case. It lets us name the conditions under which relational literacy returns a stop rather than a caution.
+
+**Refuse when the value of the act is the human presence itself.** Some things mean what they mean only because a person chose to do them. Condolence, apology, forgiveness, witness, blessing, and testimony belong to this category. To automate them is not to deliver them faster. It is to hollow them out while preserving the shell.
+
+**Refuse when the use depends on concealment.** If the interaction only works because the person on the other side believes a human is present when one is not, the relationship is built on deception. Disclosure is the test. If telling the truth about the AI's involvement would break the effect, the effect was the harm.
+
+**Refuse when efficiency is purchased by hiding the erosion of the very thing the work exists to protect.** When AI makes a caring organization look more responsive while making it less caring, the metric improves as the mission fails. Relational literacy names this trade rather than banking it.
+
+**Refuse when no human will actually bear the consequence.** If AI is being used to place distance between a decision and anyone accountable for it, so that when harm occurs there is no person who can answer for it, the tool is laundering responsibility rather than supporting it.
+
+**Refuse when the person affected, if they knew, would experience it as betrayal.** This is the plainest test of all. Imagine the interaction fully disclosed to the one it lands on. If disclosure would produce not indifference but a sense of having been deceived or abandoned, the relationship should not be created.
+
+None of these refusals is anti-AI.
+
+The same organization could use AI to draft internal summaries, organize follow-up schedules, or free staff time precisely so that a human being can make the condolence call. The refusal is not of the tool. It is of one specific relationship the tool was about to be used to fake.
+
+This is what gives the framework teeth.
+
+> **A framework that can never say no cannot be trusted when it says yes.**
+
+Relational literacy is not only a way of using AI more consciously. It is also the capacity to recognize the moments when the most conscious act is to keep the work human, and to say so.
+
+Sometimes the answer to "What relationship are we creating here?" is: none. And naming that is not a failure of the practice. It is the practice working.
+
+---
+
+## 18. Applying the Framework Across Contexts
 
 Relational literacy becomes useful when it can move across scales.
 
@@ -753,7 +803,7 @@ The following questions are offered as starting points. They are meant to be ada
 
 ---
 
-## 18. Discussion Questions for Individuals
+## 19. Discussion Questions for Individuals
 
 For individuals using AI, the following questions may support reflection:
 
@@ -785,7 +835,7 @@ They are meant to create awareness.
 
 ---
 
-## 19. Discussion Questions for Educators
+## 20. Discussion Questions for Educators
 
 For educators, the inquiry may include:
 
@@ -813,7 +863,7 @@ The goal is intellectual development in an AI-shaped world.
 
 ---
 
-## 20. Discussion Questions for Organizations
+## 21. Discussion Questions for Organizations
 
 For organizations, the inquiry may include:
 
@@ -849,7 +899,7 @@ They are conditions for responsible innovation.
 
 ---
 
-## 21. Discussion Questions for Communities and Society
+## 22. Discussion Questions for Communities and Society
 
 For communities and public life, the inquiry may include:
 
@@ -877,7 +927,7 @@ These questions require public conversation, not only private adoption.
 
 ---
 
-## 22. Toward a More Conscious Relationship With AI
+## 23. Toward a More Conscious Relationship With AI
 
 The central argument of this paper is not that AI is good or bad.
 
